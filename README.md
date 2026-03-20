@@ -1,3 +1,3 @@
-# sky.github.io
+# https://haze0e.github.io/
 This page is deployed at
-https://sky0e.github.io/
+https://haze0e.github.io/
